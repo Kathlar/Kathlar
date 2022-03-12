@@ -8,6 +8,11 @@
 
 - My Game Jam projects [https://kathlar.itch.io/](https://kathlar.itch.io/)
 
+<h4 align="center">Young and ambitious game programmer. Gamer. Fantasy, sci-fi and comics fanatic. VR enthusiast, RPG player. 
+Open minded, humorous and dedicated employee. Experienced in Unity game development, C# programming and console porting. 
+Occasionally doing freelance game development during free time.
+Proud owner of a white swiss shepherd named Loki.</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kathlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kathlar" height="30" width="40" /></a>
