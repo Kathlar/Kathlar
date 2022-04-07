@@ -8,6 +8,8 @@
 
 - My Game Jam projects [https://kathlar.itch.io/](https://kathlar.itch.io/)
 
+- My portfolio: [https://tomaszboguszewski.webflow.io/](https://tomaszboguszewski.webflow.io/)
+
 <h4 align="center">Young and ambitious game programmer. Gamer. Fantasy, sci-fi and comics fanatic. VR enthusiast, RPG player. 
 Open minded, humorous and dedicated employee. Experienced in Unity game development, C# programming and console porting. 
 Occasionally doing freelance game development during free time.
