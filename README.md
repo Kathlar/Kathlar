@@ -1,4 +1,3 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQGVpnKycMEAmQ/profile-displaybackgroundimage-shrink_200_800/0/1645471934095?e=1652313600&v=beta&t=-UFx9qRQHVPOOleLxrEHaLMnQShWkaXWCUYSJ--m89A)
   <h1 align="center">Hello there, I'm Kathlar</h1>
 <h3 align="center">Game Programmer / Unity Developer</h3>
 
