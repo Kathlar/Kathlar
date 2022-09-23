@@ -2,9 +2,9 @@
   <h1 align="center">Hello there, I'm Kathlar</h1>
 <h3 align="center">Game Programmer / Unity Developer</h3>
 
-- I’m currently working for [Klabater](https://klabater.com/en/home/)
+- Game Engineer @ <b>[QUELL](https://playquell.com/)</b>
 
-- Previously I worked for <b>[SUPERHOT](https://superhotgame.com/)</b>
+- I worked for <b>[SUPERHOT](https://superhotgame.com/)</b>, [Klabater](https://klabater.com/en/home/)
 
 - My Game Jam projects [https://kathlar.itch.io/](https://kathlar.itch.io/)
 
